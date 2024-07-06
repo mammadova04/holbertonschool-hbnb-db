@@ -77,7 +77,6 @@ As part of enhancing this phase of the HBnB Evolution project, it is crucial to 
 - **PostgreSQL Docker Image Documentation**: PostgreSQL Docker Official Image
 - **Connecting to MySQL/PostgreSQL from Python**: Refer to SQLAlchemy documentation for MySQL and PostgreSQL connections.
 
-
 # Authors
 
 - Nihad Namatli[@nihad1213](https://github.com/nihad1213)
