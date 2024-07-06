@@ -70,14 +70,14 @@ As part of enhancing this phase of the HBnB Evolution project, it is crucial to 
    - Ensure your application correctly connects to and interacts with the database within the Docker container.
    - Conduct all relevant tests to verify database operations.
 
-# Resources for Setup and Testing
+## Resources for Setup and Testing
 
 - **Docker Official Documentation**: Get Started with Docker
 - **MySQL Docker Image Documentation**: MySQL Docker Official Image
 - **PostgreSQL Docker Image Documentation**: PostgreSQL Docker Official Image
 - **Connecting to MySQL/PostgreSQL from Python**: Refer to SQLAlchemy documentation for MySQL and PostgreSQL connections.
 
-# Authors
+## Authors
 
 - Nihad Namatli[@nihad1213](https://github.com/nihad1213)
 - Aslan Aslanov [@as1an87](https://github.com/as1an87)
